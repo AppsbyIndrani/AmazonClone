@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".RegisterActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:layout_gravity="top"
+        android:background="#E6E6E6">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="25dp"
+            android:background="@drawable/amazonlogo"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text="Welcome"
+            android:layout_gravity="left"
+            android:textSize="24dp"
+            android:textColor="@color/black"
+            android:fontFamily="sans-serif-condensed"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="15dp"
+            android:id="@+id/signInText"
+            android:background="@drawable/introsignup">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingLeft="10dp"
+                android:layout_gravity="center_vertical"
+                android:text="Sign-in. "
+                android:textColor="@color/black"
+                android:textSize="18dp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Already a customer?"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textColor="@color/black"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingLeft="10dp"
+                android:layout_gravity="center_vertical"
+                android:text="Create account. "
+                android:textColor="@color/black"
+                android:textSize="18dp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="New to Amazon?"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textColor="@color/black"/>
+
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="360dp"
+            android:layout_height="50dp"
+            android:id="@+id/regUsername"
+            android:textColor="@color/black"
+            android:inputType="textPersonName"
+            android:hint="Username"
+            android:textColorHint="#AE6363"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edittextshape"
+            android:padding="10dp"/>
+
+
+        <EditText
+            android:layout_width="360dp"
+            android:layout_height="50dp"
+            android:id="@+id/regEmail"
+            android:textColor="@color/black"
+            android:inputType="textEmailAddress"
+            android:hint="EmailAddress"
+            android:textColorHint="#AE6363"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edittextshape"
+            android:padding="10dp"/>
+
+
+        <EditText
+            android:layout_width="360dp"
+            android:layout_height="50dp"
+            android:id="@+id/regPwd"
+            android:textColor="@color/black"
+            android:inputType="textPassword"
+            android:hint="Password"
+            android:textColorHint="#AE6363"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edittextshape"
+            android:padding="10dp"/>
+
+
+        <EditText
+            android:layout_width="360dp"
+            android:layout_height="50dp"
+            android:id="@+id/regConfirmPwd"
+            android:textColor="@color/black"
+            android:inputType="textPassword"
+            android:hint="Confirm Password"
+            android:textColorHint="#AE6363"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edittextshape"
+            android:padding="10dp"/>
+
+      <android.widget.Button
+          android:layout_width="240dp"
+          android:layout_height="50dp"
+          android:id="@+id/btnSignUp"
+          android:text="Sign Up"
+          android:textSize="20sp"
+          android:fontFamily="sans-serif-condensed"
+          android:layout_marginTop="30dp"
+          android:textColor="@color/black"
+          android:textAlignment="center"
+          android:background="@drawable/introsignin"/>
+
+
+    </LinearLayout>
+
+
+</FrameLayout>

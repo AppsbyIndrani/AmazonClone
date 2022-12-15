@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable-v24/ic_location.xml" value="0.152" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/back.xml" value="0.1455" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/bg_color.xml" value="0.1055" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/button_logout_shape.xml" value="0.1455" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/cart_layout_bg.xml" value="0.188" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/dialog_cart.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/edittextshape.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/introsignin.xml" value="0.15" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/introsignup.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/linear_layout_bg.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/menu_icon_mycart.xml" value="0.1455" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/profile_shape.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/searchedittext.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/shape_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/shape_nobutton.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/drawable/shape_yesbutton.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_add_product.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_base.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_cart.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_intro.xml" value="0.18" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_login.xml" value="0.21" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_otp_login.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_place_order.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_product_adapter.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_product_details.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_profile.xml" value="0.12" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_search.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_show_history.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_splash_screen.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/activity_webapp.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/cart_items_layout.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/dialog_layout.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/image_slider_layout_item.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/orderhistory_layout.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/related_products_adapter.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AmazonClone/app/src/main/res/layout/view_products_adapter.xml" value="0.17889492753623187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
